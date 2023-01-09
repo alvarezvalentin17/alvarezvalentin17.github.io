@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc73123c.css",
-    "main.js": "/static/js/main.9d1ae9b4.js",
+    "main.css": "/static/css/main.347a12cb.css",
+    "main.js": "/static/js/main.c864756d.js",
     "static/js/787.708e918a.chunk.js": "/static/js/787.708e918a.chunk.js",
-    "static/media/center-data-rooms-server-wallpaper-preview.jpg": "/static/media/center-data-rooms-server-wallpaper-preview.3dba58bfd1ad55de6f15.jpg",
     "index.html": "/index.html",
-    "main.dc73123c.css.map": "/static/css/main.dc73123c.css.map",
-    "main.9d1ae9b4.js.map": "/static/js/main.9d1ae9b4.js.map",
+    "main.347a12cb.css.map": "/static/css/main.347a12cb.css.map",
+    "main.c864756d.js.map": "/static/js/main.c864756d.js.map",
     "787.708e918a.chunk.js.map": "/static/js/787.708e918a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc73123c.css",
-    "static/js/main.9d1ae9b4.js"
+    "static/css/main.347a12cb.css",
+    "static/js/main.c864756d.js"
   ]
 }
